@@ -1,5 +1,7 @@
 # S3 Storage - SRIN Take-Home Assignments
 
+This file is written by Muhammad Mirza Fathan Al Arsyad as a submission for the SRIN Take-Home Assignments, “S3 Storage” section.
+
 **Write down as answer for every command used and result in each S3 operation below and explain your answer.**
 
 **Bucket operation:**
