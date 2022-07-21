@@ -10,7 +10,8 @@
 
 **Object operation:**
 
-- **Create object:**
-- **Update object:**
-- **Delete object:**
-- **List objects in specified buckets and sub-buckets:**
+- **Create object: `put-object`** adds an object to a bucket. User needs to have write permission to do this command.
+- **Update object:** Updating a currently existing object is just the same as creating it for the first time, we just have to do the same put operation and it will overwrite the existing one.
+- **Delete object: `delete-object`** removes an object, and also removes the null version of the object if it exists.
+- **List objects in specified buckets and sub-buckets: `list-objects`** lists up to 1000 objects within a bucket.
+****
